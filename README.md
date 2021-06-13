@@ -37,4 +37,4 @@ Targeting for specific groups and providing related resources. We also provide a
 ## Program Flow
 [Program Flow](https://drive.google.com/file/d/1UjgGUMmNS44bfHD2jP9XIrZAup1j7H5D/view?usp=sharing)
 ## Technical Proof of Concept
-[Technical Proof of Concept](http://tweduelite.infinityfreeapp.com/)
+[Technical Proof of Concept](https://tweduelite.herokuapp.com/)
