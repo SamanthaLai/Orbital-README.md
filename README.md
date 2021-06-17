@@ -43,8 +43,7 @@ Provide a reward system for users to quantify their contribution on forums and a
   - Our platform is specially for Taiwanese high school students and their parents/teachers. These users can obtain information more easily in our platform.
 
 ## Program Flow
-![program Flow]
-(/programFlow.png)
+![program Flow](/programFlow.png)
 
 ## Technical Proof of Concept
 [Technical Proof of Concept](https://tweduelite.herokuapp.com/)
