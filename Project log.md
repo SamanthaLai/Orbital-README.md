@@ -29,8 +29,8 @@ No. | Task | Date (2021) | YC | SH | Remarks
 24 | Team meeting | 6/20 | 1 | 1 | Discuss the design of notes/forum page & set up the schedule
 25 | Programming | 6/18~23 | 10 | 3 | Complete the latest news page, design forumm-asking question page
 26 | Programming | 6/24~28 | 10 | 0 | Create and complete the weekly exercise page
-27 | Team meeting | 6/27 | 1 | 8 | Discuss the web design/future plan/preperation of milestone 2, forum/book complete interface structure
-28 | Debugging | 6/27, 28 | 4 | 0 | Re-deploy the website and reset the migrations
+27 | Team meeting | 6/27 | 1 | 8 | Discuss the web design/future plan/preperation of milestone 2, forum/book interface structure
+28 | Debugging/ Programming | 6/27, 28 | 4 | 4 | Re-deploy the website and reset the migrations, alter forum/book interface structure
 29 | Update README/log | 6/28 | 2 | 0 | As the title
 
 Period | YC | SH | Total Hours
