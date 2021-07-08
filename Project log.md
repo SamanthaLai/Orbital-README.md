@@ -33,9 +33,11 @@ No. | Task | Date (2021) | YC | SH | Remarks
 28 | Debugging/ Programming | 6/27, 28 | 4 | 4 | Re-deploy the website and reset the migrations, alter forum/book interface structure
 29 | Update README/log | 6/28 | 2 | 1 | As the title
 30 | Team meeting | 6/28 | 3 | 3 | Record videos, update README
+31 | Reset the login-authentication system | 7/6-7/8 | 16 | 0 | Set up SMTP service </br> Set up third party login (using Google and Facebook) </br> Set up password forgot feature
 
 Period | YC | SH | Total Hours
 -|-|-|-
 List off - Milestone 1 | 53 | 53 | 106
-Milestone - Now | 67 | 46 | 113
-Total | 120 | 99 | 219
+Milestone 1 - Milestone 2 | 67 | 46 | 113
+Milestone 2 - Now | 16 | 0 | 16
+Total | 136 | 99 | 235
