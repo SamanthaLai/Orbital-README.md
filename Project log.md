@@ -27,17 +27,19 @@ No. | Task | Date (2021) | YC | SH | Remarks
 22 | Programming | 6-15~19 | 5 | 4 | Work on the latest new page/ user profile page, second draft for books/ forum(main, post, subject page)/ relevant links
 23 | Team Meeting/ Programming | 6/17 | 2 | 8 | Discuss the content of the website/ the upcoming meeting with Neil, design forum main page
 24 | Team meeting | 6/20 | 1 | 1 | Discuss the design of notes/forum page & set up the schedule
-25 | Programming | 6/18~23 | 10 | 8 | Complete the latest news page, design forumm-asking question page
+25 | Programming | 6/18~23 | 10 | 8 | Complete the latest news page, design forum-asking question page
 26 | Programming | 6/24~28 | 10 | 0 | Create and complete the weekly exercise page
 27 | Team meeting | 6/27 | 1 | 8 | Discuss the web design/future plan/preperation of milestone 2, forum/book interface structure
 28 | Debugging/ Programming | 6/27, 28 | 4 | 4 | Re-deploy the website and reset the migrations, alter forum/book interface structure
 29 | Update README/log | 6/28 | 2 | 1 | As the title
 30 | Team meeting | 6/28 | 3 | 3 | Record videos, update README
 31 | Reset the login-authentication system | 7/6-7/8 | 16 | 0 | Set up SMTP service </br> Set up third party login (using Google and Facebook) </br> Set up password forgot feature
+32 | Set up the forum system | 7/9-7/14 | 10 | 0 | Set up the forum post feature and comment feature.
+33 | Create the user testing form | 7-10 | 2 | 0 | as the title
 
 Period | YC | SH | Total Hours
 -|-|-|-
 List off - Milestone 1 | 53 | 53 | 106
 Milestone 1 - Milestone 2 | 67 | 46 | 113
-Milestone 2 - Now | 16 | 0 | 16
-Total | 136 | 99 | 235
+Milestone 2 - Now | 28 | 0 | 28
+Total | 148 | 99 | 247
