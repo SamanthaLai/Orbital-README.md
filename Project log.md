@@ -33,13 +33,22 @@ No. | Task | Date (2021) | YC | SH | Remarks
 28 | Debugging/ Programming | 6/27, 28 | 4 | 4 | Re-deploy the website and reset the migrations, alter forum/book interface structure
 29 | Update README/log | 6/28 | 2 | 1 | As the title
 30 | Team meeting | 6/28 | 3 | 3 | Record videos, update README
-31 | Reset the login-authentication system | 7/6-7/8 | 16 | 0 | Set up SMTP service </br> Set up third party login (using Google and Facebook) </br> Set up password forgot feature
-32 | Set up the forum system | 7/9-7/14 | 10 | 0 | Set up the forum post feature and comment feature.
-33 | Create the user testing form | 7-10 | 2 | 0 | as the title
+31 | Team meeting | 7/5 | 2 | 2 | Discuss peer evaluation and assign tasks
+32 | Reset the login-authentication system | 7/6-7/8 | 16 | 0 | Set up SMTP service </br> Set up third party login (using Google and Facebook) </br> Set up password forgot feature
+33 | Re-design the project poster and the logo | 7/7 | 0 | 6 | as the title
+34 | Re-redesign the project post | 7/8 | 0 | 6 | as the title
+35 | Set up the forum system | 7/9-7/14 | 10 | 0 | Set up the forum post feature and comment feature.
+36 | Create the user testing form | 7/10 | 2 | 0 | as the title
+37 | Re-design the UI of notes sharing/related links | 7/11-14 | 3 | 14 | as the title
+38 | Finish the weekly exercise | 7/11-7/13 | 8 | 0 | as the title
+39 | Finish setting the user profile | 7/14-7/18 | 20 | 0 | Finish setting: </br> User profile and modification form </br> Forum record </br> Weekly exercise analysis report
+40 | Team Meeting | 7/19 | 3 | 3 | Conclude all the completed features and discuss the limitation/parts that can be refined
+41 | Preparing for project readme | 7/26-7/27 | 12 | 8 | as the title
+42 | Team Meeting | 7/27 | 2 | 2 | Finish milestone 3/prepare for the project readme
 
 Period | YC | SH | Total Hours
 -|-|-|-
-List off - Milestone 1 | 53 | 53 | 106
+List off - Milestone 1 | 54 | 53 | 107
 Milestone 1 - Milestone 2 | 67 | 46 | 113
-Milestone 2 - Now | 28 | 0 | 28
-Total | 148 | 99 | 247
+Milestone 2 - Now | 75 | 27 | 102
+Total | 199 | 140 | 339
